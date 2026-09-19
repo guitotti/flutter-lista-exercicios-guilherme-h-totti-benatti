@@ -1,5 +1,5 @@
 # Lista de Exercícios - Flutter
-Lista de exercícios Flutter, desenvolvida como método avaliativo da disciplina de Programação de Dispositivos Móveis, do curso de Ciência da Computação da EEP/FUMEP.
+Listas de exercícios Flutter, desenvolvidas como método avaliativo da disciplina de Programação de Dispositivos Móveis, do curso de Ciência da Computação da EEP/FUMEP.
 
 ### Curso
 Ciência da Computação
